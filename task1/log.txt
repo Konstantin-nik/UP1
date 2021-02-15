@@ -1,0 +1,5 @@
+commit 751a7c2d22140e49886238984db90534f5ecd78c
+Author: Konstantin-nik <konstantin.nikolaenka@gmail.com>
+Date:   Mon Feb 15 21:23:18 2021 +0300
+
+    add .gitignore
